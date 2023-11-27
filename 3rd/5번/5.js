@@ -6,4 +6,4 @@ const 객체 = {
 };
 
 // 객체에서 직업이라는 key로 접근해보세요.
-console.log();
+console.log(객체.직업);
